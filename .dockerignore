@@ -1,0 +1,4 @@
+.git/*
+.ebextensions/
+bin/
+node_modules/
